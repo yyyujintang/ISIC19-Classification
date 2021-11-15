@@ -4,7 +4,9 @@ This is a project for semi-supervised medical image classification.
 
 ISIC-19 Data Website: https://challenge2019.isic-archive.com/
 
-I divide the data into train:valid:test as 7:2:1
+I divide the data into train:valid:test as 7:2:1.
+
+And choose 10%/20%/40% of the train data as labeld data, the others train data as unlabeld data
 
 Data Preparation:
 
