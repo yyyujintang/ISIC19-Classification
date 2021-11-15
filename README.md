@@ -2,6 +2,8 @@
 
 This is a project for semi-supervised medical image classification.
 
+Required packages: PyTorch Python nibabel
+
 ISIC-19 Data Website: https://challenge2019.isic-archive.com/
 
 I divide the data into train:valid:test as 7:2:1, and choose 10%/20%/40% of the train data as labeld data, the others train data as unlabeld data.
