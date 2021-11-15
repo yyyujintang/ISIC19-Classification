@@ -12,7 +12,7 @@ Data Preparation:
 
 [03_10_20_30_partrition.ipynb](https://github.com/yyyujintang/ISIC19-Classification/blob/main/03_10_20_30_partrition.ipynb)
 
-Network(ipynb format:
+Network(ipynb format):
 
 [02_ResNet50.ipynb](https://github.com/yyyujintang/ISIC19-Classification/blob/main/02_ResNet50.ipynb)
 
