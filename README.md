@@ -17,9 +17,11 @@ Network(ipynb format:
 [02_ResNet50.ipynb](https://github.com/yyyujintang/ISIC19-Classification/blob/main/02_ResNet50.ipynb)
 
 Train:
+
 [train_newest.py](https://github.com/yyyujintang/ISIC19-Classification/blob/main/train_newest.py)
 
 Test
+
 [test.py](https://github.com/yyyujintang/ISIC19-Classification/blob/main/test.py)
 
 This is only the basic code for the program.
