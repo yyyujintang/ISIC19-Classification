@@ -2,7 +2,7 @@
 
 This is a project for semi-supervised medical image classification.
 
-Required packages: PyTorch Python nibabel
+Required packages: PyTorch Python nibabel pandas numpy scikit-image opencv
 
 ISIC-19 Data Website: https://challenge2019.isic-archive.com/
 
